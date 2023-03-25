@@ -1,5 +1,6 @@
 import React from "react";
 import { SafeAreaView, StatusBar, View } from "react-native";
+import AppLoading from "expo-app-loading";
 import {
   useFonts,
   Montserrat_400Regular,
@@ -16,7 +17,7 @@ export default function App() {
   });
 
   if (!fontCarregada) {
-    return <View />;
+    return <AppLoading />;
   }
 
   return (
