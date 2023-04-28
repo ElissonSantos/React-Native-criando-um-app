@@ -1,2 +1,2 @@
-# React-Native-criando-um-app
-Repositório com o projeto criado no curso fornecido pela Alura: 'React Native: criando um app' .
+# formacao-react-native
+Repositório criado para os projetos desenvolvidos na formação de Reac Native fornecido pela Alura.
